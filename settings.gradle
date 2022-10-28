@@ -14,3 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Modules Test"
 include ':app'
+include ':core'
+include ':profile'
+include ':news'
+include ':events'
+include ':api'
